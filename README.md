@@ -6,3 +6,5 @@ If you dont understand something then drop me a mail.
 C++ : Compiled in GNU G++11 5.1.0
 
 Python: Compiled in Python 3.7.2
+
+Kotlin: Compiled in Kotlin 1.3.10
